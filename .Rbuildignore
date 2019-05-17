@@ -1,2 +1,7 @@
 ^climatewatch\.Rproj$
 ^\.Rproj\.user$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^\.travis\.yml$
+^README\.Rmd$
