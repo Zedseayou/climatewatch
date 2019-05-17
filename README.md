@@ -7,6 +7,8 @@
 
 [![Travis build
 status](https://travis-ci.org/Zedseayou/climatewatch.svg?branch=master)](https://travis-ci.org/Zedseayou/climatewatch)
+[![Codecov test
+coverage](https://codecov.io/gh/Zedseayou/climatewatch/branch/master/graph/badge.svg)](https://codecov.io/gh/Zedseayou/climatewatch?branch=master)
 <!-- badges: end -->
 
 The goal of climatewatch is to …

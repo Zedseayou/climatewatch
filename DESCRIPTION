@@ -15,5 +15,6 @@ Imports:
     httr,
     jsonlite
 Suggests: 
-    testthat (>= 2.1.0)
+    testthat (>= 2.1.0),
+    covr
 RoxygenNote: 6.1.1
